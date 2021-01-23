@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on ... My MSBA Degree & YouTube
 - 🌱 I’m currently learning ... Python, R, Spark, Tableu, PowerBI
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [Instagram Portfolio](http://instagram.com/ad_sony) // [YouTube Channel](Http://bit.do/MangoTalks) // [LinkedIn](http://LinkedIn.com/in/adsayyed)
 - ⚡ Fun fact: ... I had the Oppurtinity to Live in Budapest, Hungary for 3 Years
