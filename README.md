@@ -1,9 +1,6 @@
 ### Hey There, I am an MSBA Student at UT Austin. Here's What I'm Currently Working on! 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... My MSBA Degree & YouTube
 - 🌱 I’m currently learning ... Python, R, Spark, Tableu, PowerBI
 - 👯 I’m looking to collaborate on ... 
