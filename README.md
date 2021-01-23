@@ -7,4 +7,5 @@
 - 📫 How to reach me: ... [Instagram Portfolio](http://instagram.com/ad_sony) // [YouTube Channel](Http://bit.do/MangoTalks) // [LinkedIn](http://LinkedIn.com/in/adsayyed)
 - ⚡ Fun fact: ... I Lived in Budapest, Hungary for 3 Years
 
+---
 
