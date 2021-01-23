@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Howdy 👋, I'm Ali</h1>
 <h3 align="center">An MSBA Student Ready to Make an Impact on the World!</h3>
 
 - 📫 How to reach me **adsayyed@utexas.edu**
