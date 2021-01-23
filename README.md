@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adsayyed@utexas.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adsayyed/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACZNC2QBNImjJ-DO221tu-KA-3AXHDtiwq8,1603681883465)/](https://www.linkedin.com/in/adsayyed/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACZNC2QBNImjJ-DO221tu-KA-3AXHDtiwq8,1603681883465)/)
+- 📄 Know about my experiences [here!](https://www.linkedin.com/in/adsayyed/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACZNC2QBNImjJ-DO221tu-KA-3AXHDtiwq8,1603681883465)
 
 - ⚡ Fun fact **I Lived in Budapest Hungary for 3 Years**
 
