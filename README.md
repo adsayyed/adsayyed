@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adsayyed@utexas.edu**
 
-- 📄 Know about my experiences [here!](https://bit.ly/2MdbnGF)
+- 📄 Know about my experiences **[here!](https://bit.ly/2MdbnGF)**
 
 - ⚡ Fun fact **I Lived in Budapest Hungary for 3 Years**
 
