@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... [Instagram Portfolio] (Http://instagram.com/ad_sony) [YouTube Channel](Http://bit.do/MangoTalks) [LinkedIn](http://LinkedIn.com/in/adsayyed)
+- 📫 How to reach me: ... [Instagram Portfolio] (http://instagram.com/ad_sony) [YouTube Channel](Http://bit.do/MangoTalks) [LinkedIn](http://LinkedIn.com/in/adsayyed)
 - ⚡ Fun fact: ... I had the Oppurtinity to Live in Budapest, Hungary for 3 Years
 
