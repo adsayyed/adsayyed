@@ -7,6 +7,8 @@
 - 📫 How to reach me: ... [Instagram Portfolio](http://instagram.com/ad_sony) // [YouTube Channel](Http://bit.do/MangoTalks) // [LinkedIn](http://LinkedIn.com/in/adsayyed)
 - ⚡ Fun fact: ... I Lived in Budapest, Hungary for 3 Years
 
+---
+
 <div align="center">
   <br>
   <br>
@@ -26,10 +28,10 @@
     <img src="https://status.nmoo.dev/blocks/5" width="32" height="32">
   </a>
   <a href="https://status.nmoo.dev/blocks/6">
-    <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
+    <img src="https://status.nmoo.dev/blocks/6" width="32" height="32">
   </a>
   <a href="https://status.nmoo.dev/blocks/7">
-    <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
+    <img src="https://status.nmoo.dev/blocks/7" width="32" height="32">
   </a>
   <a href="https://status.nmoo.dev/blocks/8">
     <img src="https://status.nmoo.dev/blocks/8" width="32" height="32">
