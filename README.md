@@ -3,9 +3,13 @@
 
 - 📫 How to reach me **adsayyed@utexas.edu**
 
-- 📄 Know about my experiences **[here!](https://bit.ly/2MdbnGF)**
+- 📄 My **[LinkedIn](https://bit.ly/2MdbnGF)**
 
-- ⚡ Fun fact **I Lived in Budapest Hungary for 3 Years**
+- 📷 **[Photography Portfolio](https://instagram.com/adsayyed_)**
+
+- My **[Gaming & Tech YouTube Channel](https://Bit.Do/MangoTalksYT)**
+
+- ⚡ Fun fact about me **I Lived in Budapest Hungary for 3 Years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
