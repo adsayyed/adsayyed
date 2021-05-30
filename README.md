@@ -7,7 +7,7 @@
 
 - **[Photography Portfolio](https://instagram.com/adsayyed_)** 📸
 
-- My **[Gaming & Tech YouTube Channel](https://Bit.Do/MangoTalksYT)** ![image](https://user-images.githubusercontent.com/69006996/120122599-654ce180-c16f-11eb-9f19-2e1e64709fd2.png)
+- My **[Gaming & Tech YouTube Channel](https://Bit.Do/MangoTalksYT)** 🎥
 
 
 - ⚡ Fun fact about me **I Lived in Budapest Hungary for 3 Years**
