@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 🤘🏽, I'm Ali 👍🏽 </h1>
-<h3 align="center">An MSBA Student Ready to Make an Impact!</h3>
+<h3 align="center"> BSPH & MSBA Graduate Ready to Make an Impact!</h3>
 
 - 📫 Reach me at **adsayyed@utexas.edu**
 
