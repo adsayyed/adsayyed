@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 🤘🏽, I'm Ali 👍🏽</h1>
 <h3 align="center">An MSBA Student Ready to Make an Impact!</h3>
 
-- 📫 How to reach me **adsayyed@utexas.edu**
+- 📫 Reach me at **adsayyed@utexas.edu**
 
 - 📄 My **[LinkedIn](https://bit.ly/2MdbnGF)**
 
