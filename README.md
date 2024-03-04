@@ -1,13 +1,11 @@
 <h1 align="center">Howdy 🤘🏽, I'm Ali 👍🏽 </h1>
 <h3 align="center"> BSPH & MSBA Grad Ready to Make an Impact!</h3>
 
-- 📫 Reach me at **adsayyed@utexas.edu**
+- 📫 Reach me at **alidsayyed@gmail.com**
 
-- 📄 My **[LinkedIn](https://bit.ly/2MdbnGF)**
+- My **[LinkedIn](https://bit.ly/2MdbnGF)**
 
-- **[Photography Portfolio](https://instagram.com/adsayyed_)** 📸
-
-- My **[Tech YouTube Channel](https://Bit.Do/MangoTalksYT)** 🎥
+- **[My Portfolio](https://bento.me/adxs)**
 
 - ⚡ Fun fact about me **I Lived in Budapest Hungary for 3 Years**
 
