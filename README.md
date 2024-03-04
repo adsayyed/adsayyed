@@ -5,7 +5,7 @@
 
 - My **[LinkedIn](https://bit.ly/2MdbnGF)**
 
-- **[My Portfolio](https://bento.me/adxs)**
+- My **[Portfolio](https://bento.me/adxs)**
 
 - ⚡ Fun fact about me **I Lived in Budapest Hungary for 3 Years**
 
