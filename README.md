@@ -1,5 +1,5 @@
-<h1 align="center">Howdy 🤘🏽, I'm Ali 👍🏽 </h1>
-<h3 align="center"> BSPH & MSBA Grad Ready to Make an Impact!</h3>
+<h1 align="center">Howdy, I'm Ali 👍🏽 </h1>
+<h3 align="center"> MSBA @ UT McCombs</h3>
 
 - 📫 Reach me at **alidsayyed@gmail.com**
 
